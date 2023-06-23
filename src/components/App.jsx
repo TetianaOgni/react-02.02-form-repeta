@@ -1,6 +1,6 @@
 import { Component } from 'react';
-import Form from './Forma/Forma';
-import SignUpForm from './SignUpForm/SignUpForm';
+import Form from './Form/Form';
+// import SignUpForm from './SignUpForm/SignUpForm';
 
 class App extends Component {
   state = {
